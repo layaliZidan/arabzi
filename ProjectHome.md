@@ -1,0 +1,1 @@
+Arabzi is an extension for Messenger Plus! Live uses Yamli.com technology, allows users to typing Arabic using Latin characters, and send queries to Yamli.com search engine.
